@@ -85,8 +85,30 @@ optuna
 BERTopic
 Notes
 The codebase reflects experimental pipelines used in the paper and may include multiple variants of similar models.
-Paths to data and outputs may need to be adapted to your local setup.
-Some scripts are trait-specific; they can be generalized if needed.
+
+# Data
+
+The data used in this project are confidential and are not included in this repository.
+
+This repository does not contain:
+- raw transcript text
+- participant-level labels
+- derived embeddings
+- trained checkpoints
+- experiment outputs
+
+To run the code, users must provide their own data.
+
+## Expected format
+
+The scripts assume data in JSON format with fields such as:
+- `PARTID`: participant identifier
+- `text`: transcript text
+
+Additional label files (e.g., CSV) should include the relevant personality trait columns used in the scripts.
+
+Paths to data may need to be updated in the code depending on your local setup.
+
 Citation
 
 If you use this repository, please cite the associated Frontiers in Artificial Intelligence paper.
