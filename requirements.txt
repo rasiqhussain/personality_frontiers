@@ -1,0 +1,29 @@
+numpy
+pandas
+scikit-learn
+torch
+transformers
+simpletransformers
+sentence-transformers
+optuna
+matplotlib
+tqdm
+contractions
+
+# interpretability
+bertopic
+umap-learn
+hdbscan
+wordcloud
+nltk
+
+# LLM / finetuning
+accelerate
+peft
+bitsandbytes
+trl
+datasets
+huggingface_hub
+
+# optional (saving results)
+openpyxl
