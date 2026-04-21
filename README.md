@@ -1,4 +1,4 @@
-Official implementation of the paper:
+#Official implementation of the paper:
 
 **Language-Based Personality Assessment from Life Narratives: A Focus on Model Interpretability and Efficiency**  
 (*Frontiers in Artificial Intelligence*)
