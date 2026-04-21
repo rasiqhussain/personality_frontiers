@@ -1,6 +1,6 @@
-# Official implementation of the paper:
 
-**Language-Based Personality Assessment from Life Narratives: A Focus on Model Interpretability and Efficiency**  
+
+# **Language-Based Personality Assessment from Life Narratives: A Focus on Model Interpretability and Efficiency**  
 (*Frontiers in Artificial Intelligence*)
 
 Paper: https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1760246/abstract
