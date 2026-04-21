@@ -81,7 +81,7 @@ import contractions
 import torch.nn as nn
 
 # Set up your Hugging Face token
-os.environ["HF_TOKEN"] = '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'
+os.environ["HF_TOKEN"] = 'XXXXXXXXX'
 
 
 # In[6]:
